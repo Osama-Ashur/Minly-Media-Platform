@@ -17,7 +17,6 @@ minly-media/
 - **Framework**: Express.js with TypeScript
 - **Database**: MongoDB with Mongoose ODM
 - **Authentication**: JWT-based authentication
-- **File Storage**: AWS S3 for media uploads
 - **Security**: Helmet, CORS, rate limiting
 
 ### Mobile App (React Native + Expo)
