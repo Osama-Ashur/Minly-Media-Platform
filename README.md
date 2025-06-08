@@ -240,7 +240,6 @@ If you encounter any issues:
 ## 🎯 Future Enhancements
 
 - [ ] Native iOS and Android applications
-- [ ] Real-time notifications
 - [ ] Video streaming optimization
 - [ ] Social features (comments, sharing)
 - [ ] Content moderation
