@@ -1,4 +1,4 @@
-# Minly Media Sharing Platform
+# Minly Media Platform
 
 A full-stack media sharing platform that allows users to upload, view, and interact with images and videos across web and mobile platforms.
 
